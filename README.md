@@ -10,9 +10,11 @@
 </ul>
 
   ##
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheustxr&show_icons=true&theme=radical )
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheustxr&layout=compact&langs_count=8&theme=radical)
+  
+<div>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=matheustxr&show_icons=true&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheustxr&layout=compact&langs_count=8&theme=radical"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
