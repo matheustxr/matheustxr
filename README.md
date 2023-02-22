@@ -6,7 +6,7 @@
   <li> 👨‍💻 Front-End Enginner.</li>
   <li> 🔎 Searching for job.</li>
   <li> 📚 Passionate for study.</li>
-  <li> 🏆 "Discipline is the key to success Discipline is the key to success".</li>
+  <li> 🏆 "Discipline is the key to success".</li>
 </ul>
 
   ##
