@@ -3,8 +3,8 @@
 ### 🤙🏽 How are you? I hope you are well, welcome to my profile.
 
 <ul>
-  <li> 👨‍💻 Front-End Enginner.</li>
-  <!-- <li> 🔎 Searching for job.</li> -->
+  <!-- <li> 👨‍💻 Front-End Enginner.</li>
+  <li> 🔎 Searching for job.</li> -->
   <li> 📚 Passionate for study.</li>
   <li> 🏆 "Discipline is the key to success".</li>
 </ul>
